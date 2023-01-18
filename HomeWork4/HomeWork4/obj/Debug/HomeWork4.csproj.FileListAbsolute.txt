@@ -1,0 +1,8 @@
+D:\Учёба\Geek Brains Lesson4\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe.config
+D:\Учёба\Geek Brains Lesson4\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe
+D:\Учёба\Geek Brains Lesson4\HomeWork4\HomeWork4\bin\Debug\HomeWork4.pdb
+D:\Учёба\Geek Brains Lesson4\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.AssemblyReference.cache
+D:\Учёба\Geek Brains Lesson4\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Geek Brains Lesson4\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.CoreCompileInputs.cache
+D:\Учёба\Geek Brains Lesson4\HomeWork4\HomeWork4\obj\Debug\HomeWork4.exe
+D:\Учёба\Geek Brains Lesson4\HomeWork4\HomeWork4\obj\Debug\HomeWork4.pdb
